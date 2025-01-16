@@ -58,6 +58,18 @@ class Constant {
         static let kUSER_IS_IN_TRIAL_PERIOD    = "kUSER_IS_IN_TRIAL_PERIOD"
     }
 }
+
+// ADAPTY
+
+var RC_ADAPTY_ARRAY_PLACEMENT                               = "pk_premium_1"
+
+
+var RC_ADAPTY_PAYWALL_AB                                    = 0
+
+var RC_ADAPTY_SHOW_FREE_TRIAL_ONCLOSE                       = 1
+
+var RC_ADAPTY_EXTRA_PLACEMENTID                             = "trial_1"
+
 ```
 
 ---
