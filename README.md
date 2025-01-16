@@ -70,6 +70,8 @@ var RC_ADAPTY_SHOW_FREE_TRIAL_ONCLOSE                       = 1
 
 var RC_ADAPTY_EXTRA_PLACEMENTID                             = "trial_1"
 
+var RC_ADAPTY_PLACEMENTID                                   = ""
+
 ```
 
 ---
